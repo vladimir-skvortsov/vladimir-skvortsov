@@ -1,4 +1,12 @@
 ## Hi there 👋
+I am Vladimir Skvortsov, a data scientist who is enthusiastic about acquiring
+new knowledge and making contributions to the scientific community. Further
+information about me can be found on my
+[website](https://vladimirskvortsov.com).
+
+You may also review my data science
+[portfolio](https://github.com/vladimir-skvortsov/data-science-portfolio) to
+examine sample projects.
 
 ## Skills & Experience
 
