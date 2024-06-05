@@ -39,6 +39,7 @@ I look forward to connecting and sharing more about how my skills and experience
 [NLTK](https://www.nltk.org),
 [LangChain](https://www.langchain.com),
 [Matplotlib](https://matplotlib.org),
+[Seaborn](https://seaborn.pydata.org),
 [Jupyter Notebook](https://jupyter.org)
 
 ### Front-end
