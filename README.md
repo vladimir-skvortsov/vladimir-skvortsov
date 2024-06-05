@@ -11,7 +11,8 @@
 [MATLAB](https://www.mathworks.com/products/matlab.html),
 [JavaScript](https://en.wikipedia.org/wiki/JavaScript),
 [TypeScript](https://www.typescriptlang.org),
-[ReasonML](https://reasonml.github.io)
+[ReasonML](https://reasonml.github.io),
+[SQL](https://en.wikipedia.org/wiki/SQL)
 
 ### Data Science
 
