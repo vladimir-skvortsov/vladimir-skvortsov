@@ -114,7 +114,8 @@ examine sample projects.
 
 [Heroku](https://www.heroku.com),
 [AWS](https://aws.amazon.com),
-[Google Cloud](https://cloud.google.com)
+[Google Cloud](https://cloud.google.com),
+[Firebase](https://firebase.google.com)
 
 ### Testing
 
