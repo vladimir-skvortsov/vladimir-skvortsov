@@ -37,6 +37,7 @@ I look forward to connecting and sharing more about how my skills and experience
 [Streamlit](https://streamlit.io),
 [SciPy](https://scipy.org),
 [NLTK](https://www.nltk.org),
+[LangChain](https://www.langchain.com),
 [Matplotlib](https://matplotlib.org),
 [Jupyter Notebook](https://jupyter.org)
 
