@@ -1,4 +1,5 @@
 ## Hi there 👋
+
 I am Vladimir Skvortsov, a data scientist who is enthusiastic about acquiring
 new knowledge and making contributions to the scientific community. Further
 information about me can be found on my
@@ -6,7 +7,11 @@ information about me can be found on my
 
 You may also review my data science
 [portfolio](https://github.com/vladimir-skvortsov/data-science-portfolio) to
-examine sample projects.
+examine sample projects and my [continuous professional development
+portfolio](https://github.com/vladimir-skvortsov/CPD),
+where I document my ongoing education and updates in the field.
+
+I look forward to connecting and sharing more about how my skills and experiences align with your goals!
 
 ## Skills & Experience
 
