@@ -17,30 +17,31 @@ I look forward to connecting and sharing more about how my skills and experience
 
 ### Programming languages
 
-[C](https://en.wikipedia.org/wiki/C_(programming_language)),
-[C++](https://en.wikipedia.org/wiki/C%2B%2B),
-[Java](https://www.java.com),
 [Python](https://www.python.org),
-[MATLAB](https://www.mathworks.com/products/matlab.html),
+[SQL](https://en.wikipedia.org/wiki/SQL),
+[Java](https://www.java.com),
 [JavaScript](https://en.wikipedia.org/wiki/JavaScript),
 [TypeScript](https://www.typescriptlang.org),
-[ReasonML](https://reasonml.github.io),
-[SQL](https://en.wikipedia.org/wiki/SQL)
+[C++](https://en.wikipedia.org/wiki/C%2B%2B),
+[MATLAB](https://www.mathworks.com/products/matlab.html),
+[C](https://en.wikipedia.org/wiki/C_(programming_language)),
+[ReasonML](https://reasonml.github.io)
 
 ### Data Science
 
-[Scikit-learn](https://scikit-learn.org),
-[NumPy](https://numpy.org),
 [Pandas](https://pandas.pydata.org),
+[NumPy](https://numpy.org),
+[Jupyter Notebook](https://jupyter.org),
+[Scikit-learn](https://scikit-learn.org),
 [TensorFlow](https://www.tensorflow.org),
 [Keras](https://keras.io),
-[Streamlit](https://streamlit.io),
-[SciPy](https://scipy.org),
-[NLTK](https://www.nltk.org),
-[LangChain](https://www.langchain.com),
 [Matplotlib](https://matplotlib.org),
 [Seaborn](https://seaborn.pydata.org),
-[Jupyter Notebook](https://jupyter.org)
+[SciPy](https://scipy.org),
+[Transformers](https://en.wikipedia.org/wiki/Transformer_(deep_learning_architecture)),
+[NLTK](https://www.nltk.org),
+[Streamlit](https://streamlit.io),
+[LangChain](https://www.langchain.com)
 
 ### Front-end
 
@@ -89,10 +90,10 @@ I look forward to connecting and sharing more about how my skills and experience
 
 ### Databases
 
-[MongoDB](https://www.mongodb.com),
-[Redis](https://redis.io),
+[PostgreSQL](https://www.postgresql.org),
 [MySQL](https://www.mysql.com),
-[PostgreSQL](https://www.postgresql.org)
+[MongoDB](https://www.mongodb.com),
+[Redis](https://redis.io)
 
 ### DevOps
 
