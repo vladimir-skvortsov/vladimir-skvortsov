@@ -33,6 +33,7 @@ I look forward to connecting and sharing more about how my skills and experience
 [NumPy](https://numpy.org),
 [Jupyter Notebook](https://jupyter.org),
 [Scikit-learn](https://scikit-learn.org),
+[PyTorch](https://pytorch.org),
 [TensorFlow](https://www.tensorflow.org),
 [Keras](https://keras.io),
 [Matplotlib](https://matplotlib.org),
