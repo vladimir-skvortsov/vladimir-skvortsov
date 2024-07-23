@@ -42,7 +42,8 @@ I look forward to connecting and sharing more about how my skills and experience
 [Transformers](https://en.wikipedia.org/wiki/Transformer_(deep_learning_architecture)),
 [NLTK](https://www.nltk.org),
 [Streamlit](https://streamlit.io),
-[LangChain](https://www.langchain.com)
+[LangChain](https://www.langchain.com),
+[Tableau](https://tableau.com)
 
 ### Front-end
 
