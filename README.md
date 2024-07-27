@@ -19,12 +19,13 @@ I look forward to connecting and sharing more about how my skills and experience
 
 [Python](https://www.python.org),
 [SQL](https://en.wikipedia.org/wiki/SQL),
+[R](https://www.r-project.org),
+[C](https://en.wikipedia.org/wiki/C_(programming_language)),
+[C++](https://en.wikipedia.org/wiki/C%2B%2B),
+[MATLAB](https://www.mathworks.com/products/matlab.html),
 [Java](https://www.java.com),
 [JavaScript](https://en.wikipedia.org/wiki/JavaScript),
 [TypeScript](https://www.typescriptlang.org),
-[C++](https://en.wikipedia.org/wiki/C%2B%2B),
-[MATLAB](https://www.mathworks.com/products/matlab.html),
-[C](https://en.wikipedia.org/wiki/C_(programming_language)),
 [ReasonML](https://reasonml.github.io)
 
 ### Data Science
