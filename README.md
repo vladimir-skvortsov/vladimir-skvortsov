@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-![Telegram](https://img.shields.io/badge/Telegram-%232AABEE?style=flat&logo=Telegram&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvladimir-skvortsov%2F)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230B66C2?style=flat&logo=LinkedIn&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvladimir-skvortsov%2F)
+[![Telegram](https://img.shields.io/badge/Telegram-%232AABEE?style=flat&logo=Telegram&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvladimir-skvortsov%2F)](https://t.me/vladimir_skvortsov)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230B66C2?style=flat&logo=LinkedIn&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvladimir-skvortsov%2F)](https://www.linkedin.com/in/vladimir-skvortsov/)
 ![Profile views](https://komarev.com/ghpvc/?username=vladimir-skvortsov)
 
 I am Vladimir Skvortsov, a data scientist who is enthusiastic about acquiring
