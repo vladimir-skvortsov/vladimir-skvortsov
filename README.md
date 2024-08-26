@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+![Telegram](https://img.shields.io/badge/Telegram-%232AABEE?style=flat&logo=Telegram&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvladimir-skvortsov%2F)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230B66C2?style=flat&logo=LinkedIn&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvladimir-skvortsov%2F)
+![Profile views](https://komarev.com/ghpvc/?username=vladimir-skvortsov)
+
 I am Vladimir Skvortsov, a data scientist who is enthusiastic about acquiring
 new knowledge and making contributions to the scientific community. Further
 information about me can be found on my
@@ -152,5 +156,3 @@ I look forward to connecting and sharing more about how my skills and experience
 ## GitHub Analytics
 
 <a href="https://github.com/vladimir-skvortsov" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladimir-skvortsov&langs_count=10&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=false&locale=en&custom_title=Most%20%Used%20%Languages" alt="Top Languages" /></a>
-
-![](https://komarev.com/ghpvc/?username=vladimir-skvortsov&style=for-the-badge)
