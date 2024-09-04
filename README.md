@@ -9,7 +9,7 @@ new knowledge and making contributions to the scientific community. Further
 information about me can be found on my
 [website](https://vladimirskvortsov.com).
 
-You may also review my data science [portfolio](https://github.com/vladimir-skvortsov/data-science-portfolio) to
+You may also review my [data science portfolio](https://github.com/vladimir-skvortsov/data-science-portfolio) to
 examine sample projects and my [continuous professional development portfolio](https://github.com/vladimir-skvortsov/CPD),
 where I document my ongoing education and updates in the field.
 For a comprehensive look at my experiences and qualifications, please refer to
