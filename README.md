@@ -9,11 +9,11 @@ new knowledge and making contributions to the scientific community. Further
 information about me can be found on my
 [website](https://vladimirskvortsov.com).
 
-You may also review my data science
-[portfolio](https://github.com/vladimir-skvortsov/data-science-portfolio) to
-examine sample projects and my [continuous professional development
-portfolio](https://github.com/vladimir-skvortsov/CPD),
+You may also review my data science [portfolio](https://github.com/vladimir-skvortsov/data-science-portfolio) to
+examine sample projects and my [continuous professional development portfolio](https://github.com/vladimir-skvortsov/CPD),
 where I document my ongoing education and updates in the field.
+For a comprehensive look at my experiences and qualifications, please refer to
+my [CV](https://github.com/vladimir-skvortsov/vladimir-skvortsov/blob/master/Vladimir_Skvortsov_Data_Scientist_CV.pdf) (also available in [Russian](https://github.com/vladimir-skvortsov/vladimir-skvortsov/blob/master/Владимир_Скворцов_Data_Scientist_CV.pdf)).
 
 I look forward to connecting and sharing more about how my skills and experiences align with your goals!
 
