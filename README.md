@@ -113,18 +113,6 @@ I look forward to connecting and sharing more about how my skills and experience
 [BitBucket](https://bitbucket.org),
 [GitLab](https://about.gitlab.com)
 
-### Third-Party APIs
-
-[Google Maps](https://maps.google.com/),
-[Yandex Maps](https://yandex.com/dev),
-[2gis Maps](https://2gis.ru/),
-[Google Tag Manager](https://developers.google.com/tag-platform/tag-manager),
-[Google Analytics](https://analytics.google.com/),
-[Facebook Pixel](https://www.facebook.com/business/learn/facebook-ads-pixel),
-[Jivochat](https://www.jivochat.com/),
-[OpenAI](https://platform.openai.com/docs/overview),
-[GigaChat](https://developers.sber.ru/portal/products/gigachat-api)
-
 ### Cloud Platforms
 
 [Heroku](https://www.heroku.com),
