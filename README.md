@@ -1,38 +1,18 @@
-## Hello there 👋
+## Hi there 👋
 
 [![Telegram](https://img.shields.io/badge/Telegram-%232AABEE?style=flat&logo=Telegram&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvladimir-skvortsov%2F)](https://t.me/vladimir_skvortsov)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230B66C2?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyBmaWxsPSIjZmZmIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BTGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvladimir-skvortsov%2F)](https://www.linkedin.com/in/vladimir-skvortsov/)
 ![Profile views](https://komarev.com/ghpvc/?username=vladimir-skvortsov)
 
-I am Vladimir Skvortsov, a data scientist who is enthusiastic about acquiring
-new knowledge and making contributions to the scientific community. Further
-information about me can be found on my
-[website](https://vladimirskvortsov.com).
+I am Vladimir Skvortsov, a **Data Scientist and ML Engineer** passionate about acquiring new knowledge and making contributions to the scientific community. Further information about me can be found on my [website](https://vladimirskvortsov.com).
 
-You may also review my [data science portfolio](https://github.com/vladimir-skvortsov/data-science-portfolio) to
-examine sample projects and my [continuous professional development portfolio](https://github.com/vladimir-skvortsov/CPD),
-where I document my ongoing education and updates in the field.
-For a comprehensive look at my experiences and qualifications, please refer to
-my [CV](https://github.com/vladimir-skvortsov/vladimir-skvortsov/blob/master/Vladimir_Skvortsov_Data_Scientist_CV.pdf) (also available in [Russian](https://github.com/vladimir-skvortsov/vladimir-skvortsov/blob/master/Владимир_Скворцов_Data_Scientist_CV.pdf)).
+You may also review my [data science portfolio](https://github.com/vladimir-skvortsov/data-science-portfolio) to examine sample projects and my [continuous professional development portfolio](https://github.com/vladimir-skvortsov/CPD), where I document my ongoing education and updates in the field. For a comprehensive look at my experiences and qualifications, please refer to my [CV](https://github.com/vladimir-skvortsov/vladimir-skvortsov/blob/master/Vladimir_Skvortsov_Data_Scientist_CV.pdf) (also available in [Russian](https://github.com/vladimir-skvortsov/vladimir-skvortsov/blob/master/Владимир_Скворцов_Data_Scientist_CV.pdf)).
 
 I look forward to connecting and sharing more about how my skills and experiences align with your goals!
 
 ## Skills & Experience
 
-### Programming languages
-
-[Python](https://www.python.org),
-[SQL](https://en.wikipedia.org/wiki/SQL),
-[R](https://www.r-project.org),
-[C](https://en.wikipedia.org/wiki/C_(programming_language)),
-[C++](https://en.wikipedia.org/wiki/C%2B%2B),
-[MATLAB](https://www.mathworks.com/products/matlab.html),
-[Java](https://www.java.com),
-[JavaScript](https://en.wikipedia.org/wiki/JavaScript),
-[TypeScript](https://www.typescriptlang.org),
-[ReasonML](https://reasonml.github.io)
-
-### Data Science
+### Machine Learning & Data Science
 
 [Pandas](https://pandas.pydata.org),
 [NumPy](https://numpy.org),
@@ -49,6 +29,30 @@ I look forward to connecting and sharing more about how my skills and experience
 [Streamlit](https://streamlit.io),
 [LangChain](https://www.langchain.com),
 [Tableau](https://tableau.com)
+
+### MLOps & Deployment
+
+[Bash](https://www.gnu.org/software/bash/),
+[Docker](https://www.docker.com),
+[Jenkins](https://www.jenkins.io),
+[CircleCI](https://circleci.com),
+[Git](https://git-scm.com),
+[GitHub](https://github.com),
+[BitBucket](https://bitbucket.org),
+[GitLab](https://about.gitlab.com)
+
+### Programming languages
+
+[Python](https://www.python.org),
+[SQL](https://en.wikipedia.org/wiki/SQL),
+[R](https://www.r-project.org),
+[C](https://en.wikipedia.org/wiki/C_(programming_language)),
+[C++](https://en.wikipedia.org/wiki/C%2B%2B),
+[MATLAB](https://www.mathworks.com/products/matlab.html),
+[Java](https://www.java.com),
+[JavaScript](https://en.wikipedia.org/wiki/JavaScript),
+[TypeScript](https://www.typescriptlang.org),
+[ReasonML](https://reasonml.github.io)
 
 ### Front-end
 
@@ -101,17 +105,6 @@ I look forward to connecting and sharing more about how my skills and experience
 [MySQL](https://www.mysql.com),
 [MongoDB](https://www.mongodb.com),
 [Redis](https://redis.io)
-
-### DevOps
-
-[Bash](https://www.gnu.org/software/bash/),
-[Docker](https://www.docker.com),
-[Jenkins](https://www.jenkins.io),
-[CircleCI](https://circleci.com),
-[Git](https://git-scm.com),
-[GitHub](https://github.com),
-[BitBucket](https://bitbucket.org),
-[GitLab](https://about.gitlab.com)
 
 ### Cloud Platforms
 
