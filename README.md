@@ -136,7 +136,3 @@ I look forward to connecting and sharing more about how my skills and experience
 [Webpack](https://webpack.js.org),
 [PM2](https://pm2.keymetrics.io),
 [Yeoman](https://yeoman.io)
-
-## GitHub Analytics
-
-<a href="https://github.com/vladimir-skvortsov" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladimir-skvortsov&langs_count=10&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=false&locale=en&custom_title=Most%20%Used%20%Languages" alt="Top Languages" /></a>
