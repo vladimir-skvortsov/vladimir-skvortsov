@@ -9,7 +9,7 @@
 
 I'm a **Head of Development** with a research background in machine learning. I have been building web products since 2019 and grew from developer into a team lead and then head of a whole development department. Alongside engineering leadership, I do applied AI research on multi-agent LLM systems and retrieval-augmented generation, and I speak about using AI agents in development teams. Further information about me can be found on my [personal website](https://vladimirskvortsov.com).
 
-You may also review my [continuous professional development portfolio](https://github.com/vladimir-skvortsov/CPD), where I document my ongoing education and updates in the field. For a comprehensive look at my experience and qualifications, please refer to my [CV](https://github.com/vladimir-skvortsov/vladimir-skvortsov/blob/master/Vladimir_Skvortsov_Data_Scientist_CV.pdf) (also available as a [CV in Russian](https://github.com/vladimir-skvortsov/vladimir-skvortsov/blob/master/Владимир_Скворцов_Data_Scientist_CV.pdf)).
+You may also review my [continuous professional development portfolio](https://github.com/vladimir-skvortsov/CPD), where I document my ongoing education and updates in the field. For a comprehensive look at my experience and qualifications, please refer to my [CV](https://github.com/vladimir-skvortsov/vladimir-skvortsov/blob/master/Vladimir_Skvortsov_CV.pdf) (also available as a [CV in Russian](https://github.com/vladimir-skvortsov/vladimir-skvortsov/blob/master/Скворцов_Владимир_CV.pdf)).
 
 You can reach me on [Telegram](https://t.me/vladimir_skvortsov) or [LinkedIn](https://www.linkedin.com/in/vladimir-skvortsov/).
 
