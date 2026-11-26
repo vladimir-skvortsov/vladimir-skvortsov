@@ -80,6 +80,7 @@ You can reach me on [Telegram](https://t.me/vladimir_skvortsov) or [LinkedIn](ht
 [React](https://react.dev),
 [React Router](https://reactrouter.com),
 [Redux](https://redux.js.org),
+[MobX](https://mobx.js.org),
 [Styled Components](https://styled-components.com),
 [Ant Design](https://ant.design),
 [GraphQL](https://graphql.org),
